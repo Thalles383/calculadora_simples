@@ -22,6 +22,10 @@ O aluno deve criar testes unitários que assegurem que a calculadora:
 
 - Deve retornar a mensagem de erro apropriada para entradas inválidas.
 
+## Vídeo com explicação rápida do código
+
+[![Vídeo com explicação rápida do código](https://img.youtube.com/vi/zlgUhXHYINY/maxresdefault.jpg)](https://www.youtube.com/watch?v=zlgUhXHYINY)
+
 ## Utilizando o código
 
 Para iniciar a criação dos testes, é necessário clonar o projeto do GitHub:
