@@ -27,5 +27,5 @@ O aluno deve criar testes unitários que assegurem que a calculadora:
 Para iniciar a criação dos testes, é necessário clonar o projeto do GitHub:
 
 ```shell
-git clone https://github.com/genesluna/calculadora_simples
+git clone https://github.com/genesluna/calculadora_simples.git
 ```
