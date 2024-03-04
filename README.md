@@ -39,3 +39,7 @@ git clone https://github.com/genesluna/calculadora_simples.git
 ```shell
 python main.py
 ```
+
+## Link para o grupo de dúvidas no WhatsApp:
+
+[![Link para o grupo de dúvidas no WhatsApp](https://res.cloudinary.com/dxylve8nt/image/upload/v1709516187/DSxOAUB0raA150_r9qyhw.png)](https://chat.whatsapp.com/Fbyekep2l9xG1Bpg9qZlCy)
