@@ -19,7 +19,7 @@ class TestCalculadora(unittest.TestCase):
     
     #Deve retornar o resultado correto da divisão de dois números.
     def test_retornar_resultado_divisao_corretamente(self):
-        self.assertEqual(self.calc_simples.divisao(10, 2), 5)
+        self.assertAlmostEqual(self.calc_simples.divisao(15, 3.25), 4.615, places=2)
     
     #Deve retornar a mensagem de erro adequada ao tentar dividir por zero.
     def test_retornar_erro_ao_dividir_por_zero(self):
@@ -42,7 +42,6 @@ class TestCalculadora(unittest.TestCase):
     def test_retornar_mensagem_erro_apropriada_para_entrada_invalidas(self):
         resultado = self.calc_simples.calcular("+", "abc", "def")
         self.assertEqual(resultado, "ERRO: Entrada inválida. Certifique-se de digitar números válidos.")
-
 
 if __name__ == "__main__":
     unittest.main()
